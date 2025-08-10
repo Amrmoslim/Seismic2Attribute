@@ -1,7 +1,7 @@
 
 # Seismic2Attribute
 
-Seismic2Attribute is a Python-based tool designed to compute a wide range of seismic attributes from seismic data. These attributes are essential for subsurface interpretation, fault detection, and geological modeling in the oil and gas industry. this repo is built based on https://github.com/dudley-fitzgerald/d2geo repo after finidng some issue that have not been solved 
+Seismic2Attribute is a Python-based tool designed to compute a wide range of seismic attributes from seismic data. These attributes are essential for subsurface interpretation, fault detection, and geological modeling in the oil and gas industry. this repo is built based on https://github.com/dudley-fitzgerald/d2geo repo after finidng some issues that have not been solved 
 
 ---
 
