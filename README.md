@@ -43,7 +43,10 @@ Seismic2Attribute facilitates efficient computation and analysis of seismic attr
 3. Install the required dependencies:
 ```bash
   pip install -r requirements.txt
-## Usage
+
+---
+
+## Installation
 Running the Seismic Attribute Computation
 Use the main script to compute seismic attributes from your seismic dataset file:
 
